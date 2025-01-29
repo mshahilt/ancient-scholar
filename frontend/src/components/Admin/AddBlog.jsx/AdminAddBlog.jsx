@@ -52,7 +52,6 @@ const AdminAddBlog = () => {
         method: "POST",
         body: formDataToSend,
       });
-
       if (!response.ok) {
         throw new Error("Failed to add blog. Please try again.");
       }

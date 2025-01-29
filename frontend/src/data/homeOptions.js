@@ -40,7 +40,7 @@ export const options = [
         link: "#",
       },
       {
-        title: "QR Scanner",
+        title: "PastLink QR",
         icon: "📱",
         link: "#",
       },
