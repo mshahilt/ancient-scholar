@@ -49,4 +49,9 @@ export const options = [
         icon: "🧠",
         link: "#",
       },
+      {
+        title: "History Job board",
+        icon: "👔",
+        link: "#",
+      }
     ];
